@@ -6,6 +6,7 @@ Room For Improvement is an interactive, customisable method for virtual interior
 
 
 Other links if you're curious:
+  
   https://durhack-2026.github.io/LogicalSexualSalamander/
   
   https://github.com/DurHack-2026/LogicalSexualSalamander
